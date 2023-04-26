@@ -1,2 +1,2 @@
 <h1>Hello World</h1>
-This is a simple currency convertion app you can use on the terminal with and run test on using Jest.
+This is a simple currency convertion app you can use on the terminal and run test on using Jest.
