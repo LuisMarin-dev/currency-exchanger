@@ -1,0 +1,15 @@
+{
+  "name": "4geeks-currency-exchanger",
+  "version": "1.0.0",
+  "description": "<h1>Hello World</h1> This is a simple currency convertion app you can use on the terminal and run tests on using Jest.",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^29.6.2"
+  }
+}
